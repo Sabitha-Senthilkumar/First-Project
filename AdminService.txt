@@ -4,5 +4,5 @@ Change the roles
 maintain database
 
 Changes were added
-Changed in mySql database
+Changed in Oracle database
 
