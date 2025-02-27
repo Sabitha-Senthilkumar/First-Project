@@ -4,5 +4,4 @@ Change the roles
 maintain database
 
 Changes were added
-Feature 3 added
-changed
+Changed in feature3
